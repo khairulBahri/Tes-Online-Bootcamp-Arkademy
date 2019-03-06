@@ -1,5 +1,12 @@
 # Tes-Online-Bootcamp-Arkademy
 
-Software yg digunakan
--Web Browser
--Web server
+ -Requirements
+ *PHP
+*MySQL
+
+-Installation (DEV)
+*run in apache server.
+*paste project in htdocs folder.
+*import db to MySQL server
+
+
