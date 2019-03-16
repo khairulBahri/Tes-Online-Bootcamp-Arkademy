@@ -12,7 +12,7 @@
                                             "university" => "Universitas Potensi Utama"
                         ],
                         "skills"        => (object)[
-                                            "skill"              => "HTML, CSS, Javascript, PHP"
+                                            "skill"              => "HTML, CSS, JavaScript, PHP"
                         ]
                     ];
                     return $biodata;
